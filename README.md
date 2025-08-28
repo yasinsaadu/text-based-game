@@ -8,7 +8,7 @@ A beginner-friendly, scalable text-based RPG written in C++.
 - 🚀 Designed for learning and future enhancements
 
 ## 🚦 Getting Started
-1. Clone the repository: https://github.com/yourusername/text-based-game.git
+1. Clone the repository: https://github.com/yasinsaadu/text-based-game.git
 2. Open the project in your C++ IDE or editor.
 3. Compile and run `text based game.cpp`.
 

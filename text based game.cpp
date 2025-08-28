@@ -9,7 +9,7 @@ void namerequest(){
 void questreport(){
   cout<<"The Demon King has just raised his army of the undead and he reigning terror upon the Continent."<<endl;
   cout<<"The Continent is in dire need of a great band of heroes to stop this army of destruction and terror."<<endl;
-  cout<<"Before we continue, I must warn you, death awaits all who choose to fight, but we believe that there will be a light of hope at the end of the tunnel that would deem us victorious in our pursuit for glory and freedom."<<endl;
+  cout<<"Before we continue, I must warn you, death awaits all who choose to fight, but we believe that there will be light of hope at the end of the tunnel that would deem us victorious in our pursuit for glory and freedom."<<endl;
 }
 
 int main(){
